@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OOP2026\\LAB_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3117C673-330F-46E1-9AEA-3ACD23A6BFF6}|LAB_4.vcxproj|C:\\OOP2026\\LAB_4\\LAB_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3117C673-330F-46E1-9AEA-3ACD23A6BFF6}|LAB_4.vcxproj|solutionrelative:LAB_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3117C673-330F-46E1-9AEA-3ACD23A6BFF6}|LAB_4.vcxproj|C:\\OOP2026\\LAB_4\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3117C673-330F-46E1-9AEA-3ACD23A6BFF6}|LAB_4.vcxproj|solutionrelative:Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sort.cpp",
+              "DocumentMoniker": "C:\\OOP2026\\LAB_4\\Sort.cpp",
+              "RelativeDocumentMoniker": "Sort.cpp",
+              "ToolTip": "C:\\OOP2026\\LAB_4\\Sort.cpp",
+              "RelativeToolTip": "Sort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T13:23:58.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB_4.cpp",
+              "DocumentMoniker": "C:\\OOP2026\\LAB_4\\LAB_4.cpp",
+              "RelativeDocumentMoniker": "LAB_4.cpp",
+              "ToolTip": "C:\\OOP2026\\LAB_4\\LAB_4.cpp",
+              "RelativeToolTip": "LAB_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T13:21:03.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
